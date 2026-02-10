@@ -1,0 +1,9 @@
+title: "Sample Site"
+description: "Reliability & Asset Performance Insights — Practical guidance for IBM Maximo & EAM leaders."
+theme: minima
+
+# Top navigation
+header_pages:
+  - monthly-insights.md
+  - glossary.md
+  - field-kits.md
